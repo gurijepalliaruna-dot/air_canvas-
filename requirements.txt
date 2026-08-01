@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+mediapipe
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
+plotly
